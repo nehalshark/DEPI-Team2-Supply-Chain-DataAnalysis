@@ -13,7 +13,7 @@ This project focuses on analyzing a comprehensive Supply Chain dataset to identi
 ## Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** Pandas (Data Cleaning), Matplotlib/Seaborn (Visualization), NumPy
-- **Analysis Tools:** SQL, Excel, Tableau/Power BI
+- **Analysis Tools:**  Excel, Power BI
 - **Version Control:** GitHub
 
 ##  Dashboard Strategy (UI/UX)
@@ -26,9 +26,11 @@ Our dashboard follows a **modern, minimalist SaaS-app style** with the following
   3. **Quality & Production:** Supplier defect rates and manufacturing performance.
 
 ## Project Structure
-- `Data/`: Contains the raw `supply_chain_data.csv`.
-- `Docs/`: Project documentation, Wireframes, and PDF reports.
-- `Notebooks/`: Python scripts and exploratory data analysis.
+- `Data/`: Contains the raw `supply_chain_data.csv`. the Claened Data file and Data Dictionary
+- `Documentation/`: Project documentation.
+- `Dashboard/`: Dashboard pbix file
+- `Presentation/`: Final report PDF and pptx
+- `Project_Images/`: FScreenshots of the dashboard
 
 ##  How to Run
 1. Clone the repository: `git clone https://github.com/nehalshark/DEPI-Team2-Supply-Chain-DataAnalysis.git`
@@ -37,3 +39,4 @@ Our dashboard follows a **modern, minimalist SaaS-app style** with the following
 **Team:** DEPI Team 2  
 **Lead:** Nehal Shark  
 **Date:** May 2026
+![Dashboard Overview](Project_Images/Supply%20Chain%201.png)
