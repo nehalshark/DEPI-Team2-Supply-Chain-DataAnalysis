@@ -37,6 +37,4 @@ Our dashboard follows a **modern, minimalist SaaS-app style** with the following
 2. Install dependencies: `pip install pandas matplotlib seaborn`
 3. Open the notebooks in Jupyter or VS Code to view the analysis.
 **Team:** DEPI Team 2  
-**Lead:** Nehal Shark  
-**Date:** May 2026
 ![Dashboard Overview](Project_Images/Supply%20Chain%201.png)
