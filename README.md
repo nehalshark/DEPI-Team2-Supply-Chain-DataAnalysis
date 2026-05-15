@@ -44,3 +44,7 @@ Our dashboard follows a **modern, minimalist SaaS-app style** with the following
 Check out the interactive features of the dashboard in this video:
 
 https://github.com/nehalshark/DEPI-Team2-Supply-Chain-DataAnalysis/raw/main/Media/Supply_Chain_Demo.mp4
+
+https://github.com/user-attachments/assets/f1495d0b-3fc2-400b-aea1-0e346fa11358
+
+
