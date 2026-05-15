@@ -30,11 +30,17 @@ Our dashboard follows a **modern, minimalist SaaS-app style** with the following
 - `Documentation/`: Project documentation.
 - `Dashboard/`: Dashboard pbix file
 - `Presentation/`: Final report PDF and pptx
-- `Project_Images/`: FScreenshots of the dashboard
+- `Media/`: FScreenshots of the dashboard and demo
 
 ##  How to Run
 1. Clone the repository: `git clone https://github.com/nehalshark/DEPI-Team2-Supply-Chain-DataAnalysis.git`
 2. Install dependencies: `pip install pandas matplotlib seaborn`
 3. Open the notebooks in Jupyter or VS Code to view the analysis.
 **Team:** DEPI Team 2  
-![Dashboard Overview](Project_Images/Supply%20Chain%201.png)
+<p align="center">
+  <img src="Media/Supply%20Chain%201.png" width="800" alt="Dashboard Overview">
+</p>
+### 🎥 Project Video Demonstration
+Check out the interactive features of the dashboard in this video:
+
+https://github.com/nehalshark/DEPI-Team2-Supply-Chain-DataAnalysis/raw/main/Media/Supply_Chain_Demo.mp4
